@@ -1,6 +1,5 @@
 #include <stdio.h>
 
 void main() {
- // need to print current working dir.
-  // please develop this function.
+// release: pwd function will be added in v1.1
 }
